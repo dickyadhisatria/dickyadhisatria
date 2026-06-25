@@ -11,7 +11,7 @@
 ### 🔭 Currently
 
 - **Working on:** optimizing microservice performance and spatial database queries
-- **Learning:** distributed systems design and cloud architectures
+- **Currently Learning:** Java using IntelliJ IDEA
 - **Collaborating on:** open-source backend tools — Node.js, TypeScript, Go, or Python repositories
 - **Looking for help with:** enterprise-grade system design patterns
 - **Ask me about:** Node.js, Go, TypeScript, PostgreSQL, REST API optimization
