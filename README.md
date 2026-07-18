@@ -217,6 +217,8 @@ I am a **Backend Developer** with **2+ years** of professional experience buildi
 
 ---
 
+## 📊 GitHub Analytics
+
 ### 👤 Primary Profile (`dickyadhisatria`)
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
